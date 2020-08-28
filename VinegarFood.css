@@ -111,7 +111,7 @@ hr { background-color: yellow; }
         padding-left: 100%;
         width: 40px;
         height: 80px;
-        background: url(./Images/vinegarfood/background/menu.png);
+        background: url("Images/vinegarfood/background/menu.png");
         background-position: center;
         background-repeat: no-repeat;
         background-size: 30px;
@@ -229,7 +229,7 @@ hr { background-color: yellow; }
 
 /* Awards */
 #Awards {
-    background-image: url("images/vinegarfood/background/bb.jpg");
+    background-image: url("Images/vinegarfood/background/bb.jpg");
     background-repeat: no-repeat;
     background-size: 100% 100%;
     background-position: cover;
